@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Ecrf1jt-221395",
+    "database": "jar-jar-backend",
+    "host": "Joppajoe.lan",
+    "dialect": "mysql"
+  }
+}
